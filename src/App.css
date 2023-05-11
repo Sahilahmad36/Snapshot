@@ -1,4 +1,20 @@
-.App {
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*,
+::before,
+::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    background: rgb(113, 110, 110);
+} 
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +51,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

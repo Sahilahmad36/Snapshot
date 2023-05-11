@@ -1,3 +1,4 @@
+import "./App.css";
 import React, { Component } from "react";
 import PhotoContextProvider from "./context/PhotoContext";
 import { HashRouter, Route, Switch, Redirect } from "react-router-dom";
